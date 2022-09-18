@@ -1,0 +1,5 @@
+Pearl Continental,5,500,0$VIP Lounge,4,100,0$Castle Era,3,100,0$RoofBottom,4,80,0
+Fri Chicks,4,500,0$Chunk N Cheese,4,350,0$Almaida,4,300,0$Mcdonalds,4,400,0$KFC,4,100,0$Old School,3,100,0$Tabbac,3,80,0$Saariyas Sip N Bite,5,300,0$New Exp,3,100,0
+Hosts,3,10,0$Guests,4,10,0$Service,2,4,0$Peoples Place,4,10,0
+Hanna Lake$Pishin Valley
+Karachi,500,100,600,600$Faisalabad,400,70,350,350$Peshawar,600,90,400,400

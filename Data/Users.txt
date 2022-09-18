@@ -1,0 +1,7 @@
+Dawood,123,Faisalabad,1
+Hamza,111,Lahore,0
+NewUser,123,Faisalabad,0
+New,11,Faisalabad,0
+User,112,Faisalabad,0
+Ahmad,123,Faisalabad,0
+Usman,123,Faisalabad,0

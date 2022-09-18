@@ -1,0 +1,5 @@
+Real Palace,5,100,0$KHI Pro,5,180,0$Pearl Continental,5,500,0$VIP Lounge,4,100,0$Castle Era,3,100,0$RoofBottom,4,80,0
+Pizza Hut,4,500,0$Almaida,4,300,0$Mcdonalds,4,400,0$KFC,4,100,0$Old School,3,100,0$Tabbac,3,80,0$Saariyas Sip N Bite,5,300,0$New Exp,3,100,0
+Hosts,3,10,0$Guests,4,10,0$Service,2,4,0$Peoples Place,4,10,0$Hughes,5,10,0
+Badshahi Masjid$Data Darbar$Minar e Pakistan
+Karachi,900,100,1000,0$Islamabad,260,40,260,260$Faisalabad,120,0,100,100

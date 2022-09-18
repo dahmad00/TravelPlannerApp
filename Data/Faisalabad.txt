@@ -1,0 +1,5 @@
+Serena Hotel,4,100,0$Hotel One,3,80,0$Pearl Continental,5,300,0$Lords Inn,3,100,0
+Quillim,4,100,0$Tabbac,3,80,0$Silver Spoon,5,300,0$Forks N Knives,3,100,0
+LiveHouse,4,10,0$New House,2,4,0$Peoples,4,10,0
+Clock Tower$Company Bagh
+Lahore,120,60,100,100$Quetta,70,400,350,350

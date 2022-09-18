@@ -1,0 +1,5 @@
+Serena Hotel,5,150,0$Hotel Pro,5,180,0$Pearl Continental,5,500,0$VIP Lounge,4,100,0$Castle Shelter,3,100,0$RoofBottom,4,80,0
+Pizza Hut,4,500,0$Tabbac,3,80,0$Saariyas Sip N Bite,5,300,0$New Exp,3,100,0
+Guests,4,10,0$Service,2,4,0$Peoples Place,4,10,0$Hughes,5,10,0
+Faisal Mosque$Daman e Koh$Monument Musuem
+Lahore,260,40,260,260$Karachi,1600,120,0,0$Peshawar,150,0,100,100
